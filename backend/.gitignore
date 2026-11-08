@@ -1,0 +1,8 @@
+backend/.env
+.env
+query_log.csv
+web/node_modules/
+web/dist/
+__pycache__/
+*.pyc
+app.py

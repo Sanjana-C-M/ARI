@@ -1,0 +1,6 @@
+{
+  "name": "Ari",
+  "description": "Ask in Tamil. Get a checked answer. A Tamil voice guide with Light and Dark themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
